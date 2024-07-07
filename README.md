@@ -19,7 +19,7 @@ The "100 Days of Code" course on Udemy covers a wide range of programming topics
 - [Udemy Course Link](https://www.udemy.com/course/100-days-of-code/)
 
 ## Connect With Me
-- GitHub: [YourGitHubUsername](https://github.com/briangabini)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/brian-gabini-2b5287170/)
+- GitHub: [briangabini](https://github.com/briangabini)
+- LinkedIn: [briangabini](https://www.linkedin.com/in/brian-gabini-2b5287170/)
 
 Join me on this coding journey, and let's learn and grow together!
